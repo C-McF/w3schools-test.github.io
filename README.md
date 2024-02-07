@@ -17,8 +17,8 @@ You can add almost anything to the index.html file between the indicated comment
 
 `<!-- Insert your message below here -->`
 
-
-
+Good day everyone,
+from Craig, learning Github.
 
 `<!-- End user messages -->`
 
