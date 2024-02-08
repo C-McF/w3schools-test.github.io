@@ -17,7 +17,9 @@ You can add almost anything to the index.html file between the indicated comment
 
 `<!-- Insert your message below here -->`
 
+Guiness is good for you!
 
+Good for anything that ails you.
 
 
 `<!-- End user messages -->`
